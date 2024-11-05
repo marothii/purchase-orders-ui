@@ -32,15 +32,14 @@ The **Purchase Orders Management Web Application** is a user-friendly interface 
 1. Launch the application by opening `index.html` in your web browser.
 2. Click on any purchase order in the list to view its details in a modal dialog.
 3. Close the modal by clicking the 'X' in the upper right corner or clicking outside the modal area.
+### Relation to Previous Experience
 
-## Relation to Professional Experience
+This project builds on my experience both in my role at Limelight and a previous group project creating an online bookstore. At Limelight, I implemented dynamic order management features that improved tracking efficiency, deepening my knowledge of responsive design and real-time data handling. In the online bookstore project, I developed an intuitive user interface and handled data interactions for inventory management, strengthening my proficiency in front-end development using HTML, CSS, and JavaScript.
 
-This project showcases my skills in web development, aligning closely with my previous experience in creating interactive web applications. For instance, in my role at [Your Previous Company/Project Name], I developed similar functionalities where I [briefly describe your responsibilities or the project, e.g., "implemented a real-time order management system that improved tracking efficiency by 30%"]. 
+### Conclusion
 
-This experience has strengthened my proficiency in front-end technologies, enhancing my ability to design intuitive user interfaces and manage dynamic data interactions.
-
-## Conclusion
+Combining insights from my professional role and project work, this application demonstrates my ability to build user-friendly, data-driven web solutions. These experiences continue to shape my focus on creating streamlined and efficient interfaces in future projects.
 
 The Purchase Orders Management Web Application serves as a testament to my capabilities in front-end development using HTML, CSS, and JavaScript. It reflects my commitment to building user-friendly web applications and sets the foundation for future projects that may involve backend integration and full-stack development.
 
-Feel free to reach out for any further inquiries or collaboration opportunities!
+Feel free to reach out for any further inquiries !
